@@ -1,0 +1,34 @@
+Similar Products: 
+
+	Tetris Friends (www.tetrisfriends.com)
+
+	Good Features:
+		variety of game modes
+		leaderboards/hi scores
+		live multiplayer game mode
+		2-player mode vs friends
+
+	Bad Features:
+		shop features to improve gameplay (need to pay to access the best features)
+		many ads (funds the site but are very annoying)
+
+	Tetris Battle (on Facebook):
+
+	Good Features:
+		variety of game modes
+		has a multiplayer mode, however, it is not live
+		connected with Facebook and ability to "challenge" friends
+
+	Bad Features:
+		far too many shop features as well
+		far too many ads that greatly clutter the game
+
+
+	Online Tetris AIs:
+
+	Good Features:
+		Tetris AIs that can continue for supposedly thousands of lines
+		Tetris AIs that can perform extremely quickly
+
+	Bad Features:
+		No mention of Tetris AI that can perform cool Tetris tricks like Double T-spins or Triple T-spins

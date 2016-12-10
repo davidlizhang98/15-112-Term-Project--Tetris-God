@@ -1,0 +1,2 @@
+
+possibly automate the Genetic Algorithm completely

@@ -1,0 +1,16 @@
+
+added significant AI features
+
+added functions that calculate all the necessary characteristics of the board
+that need to be considered to evaluate what a "good" move is
+
+implemented a findBestPlacement function which determines what the best move 
+would be, given the current falling piece and the piece available from the
+hold
+
+implemented a doAIMove function which incrementally does the steps of the
+ideal move one at a time and displays each step of the move to the user
+
+completed a fundamental AI that is capable of clearing hundreds of lines
+before topping out (a.k.a. losing; highest score was in the 1100s)
+

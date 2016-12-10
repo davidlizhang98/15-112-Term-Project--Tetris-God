@@ -1,0 +1,14 @@
+
+I want to build upon the version of Tetris that we developed in class to make it a smoother version that has a 
+higher skill cap.
+
+I want to develop a Tetris AI with varying levels of difficulty that a player can practice against or just spectate
+to learn strategies for playing the game effectively. 
+
+I want to implement a multiplayer version of the game where 2 players can interact with each other by sending 
+cleared lines to one another (eventually causing one another to lose by forcing a top out). If I have time, I would
+like to make a WebApp version of the game.
+
+Modules:
+pygame (for the game itself)
+possibly Django (for the WebApp if I get to it)
